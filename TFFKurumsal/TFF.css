@@ -1,0 +1,47 @@
+﻿body {
+}
+.team {
+    border-style: double;
+    font-family: Verdana
+}
+
+.team-fb {
+    background-color: blue;
+    color: yellow;
+    border-block-color: yellow;
+  
+}
+
+.team-gs {
+    background-color: red;
+    color: yellow;
+    border-block-color: yellow;
+
+}
+
+.team-bjk {
+    background-color: black;
+    color: white;
+    border-block-color: white;
+
+}
+.btn {
+    font-family: Arial;
+    font-size: 12px
+}
+
+.btn-gs {
+    background-color: yellow;
+    color: red;
+    
+}
+
+.btn-fb {
+    background-color: yellow;
+    color: blue;
+}
+
+.btn-bjk {
+    background-color: white;
+    color: black;
+}
